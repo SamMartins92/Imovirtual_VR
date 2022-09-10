@@ -1,1 +1,13 @@
 *.meta
+*.bin
+*.cache
+*.txt
+*.jpg
+*.tif
+*.pdf
+*.json
+Imovirtual_tut/Assets/Plugins/crosstales/3D Skybox/Mediterranean Freebies/Textures/01-Beautiful Pasture.exr
+*.exr
+*.wav
+*.ttf
+*.dll
