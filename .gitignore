@@ -11,3 +11,5 @@ Imovirtual_tut/Assets/Plugins/crosstales/3D Skybox/Mediterranean Freebies/Textur
 *.wav
 *.ttf
 *.dll
+*.suo
+*.sln
