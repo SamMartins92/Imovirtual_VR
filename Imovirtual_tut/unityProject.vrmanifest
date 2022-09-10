@@ -1,0 +1,16 @@
+{
+  "source": "Unity",
+  "applications": [
+    {
+      "app_key": "application.generated.unity.Imoteste.exe",
+      "launch_type": "url",
+      "url": "steam://launch/",
+      "action_manifest_path": "E:\\All In\\Work\\Faculdade\\Mestrado\\Dissertação\\Projeto\\Aplicação\\Versões - Tutorial - HTC\\Tutorial_3.0 - Alta qualidade\\Assets\\StreamingAssets\\SteamVR\\actions.json",
+      "strings": {
+        "en_us": {
+          "name": "Teste [Testing]"
+        }
+      }
+    }
+  ]
+}
